@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cadiize\\Desktop\\BasicGit\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj": {}
+    "C:\\Users\\black\\Documents\\GitHub\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cadiize\\Desktop\\BasicGit\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj": {
+    "C:\\Users\\black\\Documents\\GitHub\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cadiize\\Desktop\\BasicGit\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj",
+        "projectUniqueName": "C:\\Users\\black\\Documents\\GitHub\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj",
         "projectName": "BasicGit55",
-        "projectPath": "C:\\Users\\cadiize\\Desktop\\BasicGit\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj",
-        "packagesPath": "C:\\Users\\cadiize\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cadiize\\Desktop\\BasicGit\\basic-git-55\\BasicGit55\\BasicGit55\\obj\\",
+        "projectPath": "C:\\Users\\black\\Documents\\GitHub\\basic-git-55\\BasicGit55\\BasicGit55\\BasicGit55.csproj",
+        "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\black\\Documents\\GitHub\\basic-git-55\\BasicGit55\\BasicGit55\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cadiize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\black\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
