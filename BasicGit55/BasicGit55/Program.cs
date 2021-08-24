@@ -8,6 +8,7 @@ namespace BasicGit55
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World! dari herul syahwandi");
+            Console.WriteLine("MCC ASP.NET");
         }
     }
 }
