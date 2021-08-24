@@ -69,6 +69,7 @@ namespace BasicGit55
         
         public void ShowNandes()
         {
+            Console.WriteLine("Pernandes Sihombing");
         }
     }
 }
