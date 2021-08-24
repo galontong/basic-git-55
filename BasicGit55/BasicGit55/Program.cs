@@ -25,6 +25,7 @@ namespace BasicGit55
         
         public void ShowFebi()
         {
+            Console.WriteLine("Halo, nama lengkap saya Febryani Sri Waranti");
         }
         
         public void ShowFerdi()
