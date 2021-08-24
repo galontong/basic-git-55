@@ -17,6 +17,7 @@ namespace BasicGit55
         
         public void ShowAchmad()
         {
+            Console.WriteLine("Achmad Ismail");
         }
         
         public void ShowErche()
