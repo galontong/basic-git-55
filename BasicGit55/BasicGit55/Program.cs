@@ -57,7 +57,7 @@ namespace BasicGit55
         
         public void ShowOcta()
         {
-            Console.WriteLine();
+            Console.WriteLine("Hello there!");
         }
         
         public void ShowNaufal()
