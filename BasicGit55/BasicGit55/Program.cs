@@ -15,61 +15,62 @@ namespace BasicGit55
         {
             Console.WriteLine("Herul Syahwandi S");
         }
-        
+
         public void ShowAchmad()
         {
         }
-        
+
         public void ShowErche()
         {
         }
-        
+
         public void ShowFebi()
         {
         }
-        
+
         public void ShowFerdi()
         {
+            Console.WriteLine("Ferdian Arjutama Narwan");
         }
-        
+
         public void ShowHasbi()
         {
         }
-        
+
         public void ShowJona()
         {
         }
-        
+
         public void ShowKevin()
         {
         }
-        
+
         public void ShowLalak()
         {
             Console.WriteLine("Saya Lalak");
         }
-        
+
         public void ShowLinggom()
         {
         }
-        
+
         public void ShowMartin()
         {
         }
-        
+
         public void ShowOcta()
         {
         }
-        
+
         public void ShowNaufal()
         {
             Console.WriteLine("Naufal Hafiz");
         }
-        
+
         public void ShowYepta()
         {
         }
-        
+
         public void ShowNandes()
         {
         }
