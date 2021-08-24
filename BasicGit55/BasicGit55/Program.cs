@@ -45,6 +45,7 @@ namespace BasicGit55
         
         public void ShowLalak()
         {
+            Console.WriteLine("Saya Lalak");
         }
         
         public void ShowLinggom()
