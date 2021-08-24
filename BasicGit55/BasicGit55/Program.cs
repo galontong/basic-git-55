@@ -53,6 +53,7 @@ namespace BasicGit55
         
         public void ShowMartin()
         {
+            Console.WriteLine("Martin Simanjuntak");
         }
         
         public void ShowOcta()
