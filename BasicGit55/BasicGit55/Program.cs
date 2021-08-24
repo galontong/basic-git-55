@@ -33,6 +33,7 @@ namespace BasicGit55
         
         public void ShowHasbi()
         {
+            Console.WriteLine("Hasbi Shuhada");
         }
         
         public void ShowJona()
